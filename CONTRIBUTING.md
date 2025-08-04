@@ -348,12 +348,6 @@ cron.schedule('0 8 * * 1-5', () => { // todo dia útil às 8h
 - Transmita valor pelo tempo economizado, qualidade dos textos gerados, e analytics do sucesso das postagens (track básico).
 ---
 
-# <q>Comece aceitando pagamentos por Stripe (mais fácil) e expanda para MercadoPago/Pix usando marketplaces SaaS (Fabrick, Pagar.me, etc).
-
-Informe ao usuário sobre a limitação inicial de publicação automática do LinkedIn (exige autenticação e permissões da API).
-
-Transmita valor pelo tempo economizado, qualidade dos textos gerados, e analytics do sucesso das postagens (track básico).
-
 ## 1. Exemplo de UI/UX – Página de Pagamento (Stripe/MercadoPago)
 
 ### a) Wireframe dos Planos
