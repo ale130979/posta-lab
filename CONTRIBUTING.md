@@ -1,16 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# Preciso criar um site onde possa criar uma gerador de postagem no LinkedIn com dia e horario agendados sobre novidades de tecnologia, e que tenha a uma IA por tras para gerar essas postagens para publicação, e futuramente se torne um site para comercialização e disponibilidade de vendas para outras pessoas que precisem desse serviço gerenado postata e valor para o sucesso.
-
-Você quer criar um site com as seguintes funcionalidades principais:
-
-- Gerador de postagens para LinkedIn com agendamento (data e hora).
-- Utiliza IA para gerar os textos das postagens sobre novidades de tecnologia.
-- Permite publicação automática no LinkedIn, se possível.
-- Futuramente, o site deverá servir como plataforma comercial (marketplace), vendendo o serviço para outras pessoas interessadas em automatizar postagens de valor.
-
-Com base nisso, aqui está um roadmap prático e sugestões de stack e plataformas para seu projeto:
-
 ## Roadmap Inicial do Produto
 
 ### 1. MVP Simples (para validação)
