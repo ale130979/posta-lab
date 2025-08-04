@@ -69,10 +69,6 @@ Se quiser dicas de fluxos de tela, wireframes, exemplos de código (Node.js ou N
 
 ---
 
-# <q>Se quiser dicas de fluxos de tela, wireframes, exemplos de código (Node.js ou Next.js), ou um plano mais técnico de implementação, só pedir!</q> Quero sim
-
-Ótimo! Aqui vai um plano prático, dicas de fluxos de tela, sugestões de wireframes e exemplos de código para um MVP do seu gerador/agendador de posts para LinkedIn com IA.
-
 ## 1. Fluxos de Tela (MVP)
 
 ### a) Fluxo do Usuário
@@ -204,13 +200,7 @@ export default function Home() {
 - Para autenticação, implemente OAuth LinkedIn via pacote [NextAuth.js](https://next-auth.js.org/providers/linkedin) ou Auth0.
 - Armazene os posts agendados em um banco (PostgreSQL recomendado).
 
-Se quiser expandir para os fluxos comerciais, sistemas de pagamento ou mais exemplos de código focado em publicação automática, só pedir!
-
 ---
-
-# <q>Se quiser expandir para os fluxos comerciais, sistemas de pagamento ou mais exemplos de código focado em publicação automática, só pedir!</q> Quero sim
-
-Perfeito! Vamos detalhar agora os fluxos comerciais, integração de sistemas de pagamento e trazer exemplos práticos de código (Node.js) para publicação automática no LinkedIn.
 
 ## 1. Fluxos Comerciais e Modelos de Venda
 
@@ -838,10 +828,6 @@ Se quiser modelo de email de boas-vindas, texto para página “Sobre”, exempl
 
 ---
 
-# <q>Se quiser modelo de email de boas-vindas, texto para página “Sobre”, exemplos de prompts para a IA gerar postagens ou orientações para briefing visual, só avisar!</q> quero sim
-
-Ótimo! Aqui estão modelos prontos de email de boas-vindas, texto para página “Sobre”, exemplos de prompts para IA (em português e inglês) e orientações claras de briefing visual para comunicação com designers.
-
 ## 1. Modelo de Email de Boas-vindas
 
 **Assunto:** Seja bem-vindo(a) ao PostaLab 🚀
@@ -921,14 +907,8 @@ Venha para o futuro do marketing pessoal!
 - Botões: Grandes, com feedback visual, CTAs destacados
 - Tela de prompts/IA: Campo amplo para digitar tema, sugestões visuais de exemplos (ex: botão "Sugestão de tema?")
 - Mobile first: Priorizar legibilidade, espaçamento amplo e botão de fácil toque
-
-Se quiser textos para Landing Page, mensagens de erro amigáveis, microcopy para CTA’s, exemplos de variações de logo ou posts prontos para divulgação do lançamento do PostaLab, só pedir!
-
 ---
 
-# <q>Se quiser textos para Landing Page, mensagens de erro amigáveis, microcopy para CTA’s, exemplos de variações de logo ou posts prontos para divulgação do lançamento do PostaLab, só pedir!</q> quero sim
-
-Excelente! Segue uma coleção completa de exemplos para deixar o PostaLab pronto para lançamento e comunicação:
 
 ## 1. Texto para Landing Page (Home)
 
@@ -1010,14 +990,7 @@ Excelente! Segue uma coleção completa de exemplos para deixar o PostaLab pront
 > 🔥 Lançamos: PostaLab! Gere e agende seus posts do LinkedIn com IA, analytics e automação.
 > Teste grátis agora!
 > \#Startup \#Automation \#IA
-
-Se quiser textos para FAQ, roteiros de vídeos tutoriais, mais sugestões de posts para redes sociais, orientações para vídeos reels/animações ou banners para lançamento, só pedir!
-
 ---
-
-# <q>Se quiser textos para FAQ, roteiros de vídeos tutoriais, mais sugestões de posts para redes sociais, orientações para vídeos reels/animações ou banners para lançamento, só pedir!</q> Quero sim
-
-Ótimo! Segue uma coleção de conteúdos estratégicos para FAQ, vídeos tutoriais, social media e material visual para o lançamento do PostaLab:
 
 ## 1. Exemplos de Textos para FAQ (Perguntas Frequentes)
 
@@ -1104,14 +1077,7 @@ Tech, clean, fundo branco com detalhes azuis/laranja, animação de robô simpá
     - Ilustração de um balão de fala + robô + gráfico de crescimento
     - CTA: [Comece grátis]
     - Paleta: fundo branco, detalhes em azul e laranja, fontes grandes e amigáveis
-
-Se quiser textos específicos para e-mail marketing, onboarding em app, sequência de stories, modelos prontos para banners (Figma/Canva) ou sugestões para parcerias de lançamento, só pedir!
-
 ---
-
-# <q>Se quiser textos específicos para e-mail marketing, onboarding em app, sequência de stories, modelos prontos para banners (Figma/Canva) ou sugestões para parcerias de lançamento, só pedir!</q> quero sim
-
-Maravilha! Aqui vai um conjunto completo de materiais para alavancar o lançamento do PostaLab, engajar seus leads e fortalecer a apresentação visual e comercial do produto:
 
 ## 1. Textos Específicos para Email Marketing
 
@@ -1220,8 +1186,6 @@ Proponha integração ou perks para membros.
 > Lançamos o PostaLab, plataforma que cria e agenda posts tech para LinkedIn usando IA.
 > Você topa testar em primeira mão, dar seu feedback e compartilhar a experiência com a sua audiência?
 > Podemos oferecer upgrade de plano exclusivo para você e seguidores.
-
-Se quiser sequências de emails (nutrição), posts de acompanhamento pós-lançamento, templates visuais para veículos específicos ou sugestões de conteúdo para blog, só pedir!
 
 ---
 
@@ -1687,8 +1651,6 @@ Use filtros, atribua responsáveis, mude opções de status e adicione novas tar
 
 Você pode editar, adicionar colunas (como links, arquivos ou comentários) e integrar cada database ao fluxo do projeto para acompanhamento visual (kanban, tabela, galeria, etc.).
 
-Se quiser customizar as colunas, mudar exemplos ou receber mais modelos prontos, só avisar!
-
 <div style="text-align: center">⁂</div>
 
 [^15_1]: https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/ed3e13cfae9aaf28b5ba707b68561a3b/dcf5bf1f-0ff1-4898-ab5e-da32db0294a4/afec4c27.csv
@@ -1697,10 +1659,6 @@ Se quiser customizar as colunas, mudar exemplos ou receber mais modelos prontos,
 
 
 ---
-
-# <q>Se quiser customizar as colunas, mudar exemplos ou receber mais modelos prontos, só avisar!</q> quero sim
-
-Aqui está um modelo de banco de dados de tarefas customizado, pronto para importar no Notion, Google Sheets ou Excel. Ele inclui colunas extras para descrição, comentários, anexos e detalhes como prioridade, responsável e status — facilitando o acompanhamento detalhado do seu projeto.
 
 ### Modelo Customizado de Banco de Dados de Tarefas (CSV)
 
