@@ -12,11 +12,11 @@ Utilizamos os dados coletados apenas para oferecer e aprimorar as funcionalidade
 
 ## Armazenamento e Segurança
 
-Seus dados são armazenados de forma segura e adotamos práticas recomendadas de segurança para protegê-los contra acessos não autorizados.
+Seus dados são armazenados de forma segura e adotamos práticas recomendadas de segurança, criptografia, servidores cloud, acesso restrito para protegê-los contra acessos não autorizados.
 
 ## Direitos do Usuário
 
-Você pode solicitar a exclusão, correção ou acesso aos seus dados pessoais armazenados pelo PostaLab a qualquer momento, entrando em contato pelo e-mail: [seu-email@exemplo.com].
+Você pode solicitar a exclusão, correção ou acesso aos seus dados pessoais armazenados pelo PostaLab a qualquer momento, entrando em contato pelo e-mail:postalabl@gmail.com
 
 ## Alterações nesta Política
 
@@ -24,4 +24,4 @@ Esta política pode ser atualizada periodicamente. Quaisquer mudanças serão pu
 
 ## Contato
 
-Em caso de dúvidas, entre em contato: [postalabl@gmail.com]
+Em caso de dúvidas, entre em contato:postalabl@gmail.com
